@@ -24,10 +24,11 @@ description: e@s
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Aqui:
-    - Parte I: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-i"
-    - Parte II: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-ii"
-    - Parte III: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-iii"
+  Blog: "/blog/"
+#  Aqui:
+#    - Parte I: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-i"
+#    - Parte II: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-ii"
+#    - Parte III: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-iii"
   Photography:
     - Instagram: "https://instagram.com/maique/"
     - Flickr: "https://flickr.com/photos/maique"
