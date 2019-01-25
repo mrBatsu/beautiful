@@ -23,7 +23,7 @@ description: stuff
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
   Blog: "/blog/"
 #  Aqui:
 #    - Parte I: "https://mrBatsu.github.io/beautiful/aqui/#aqui-parte-i"
