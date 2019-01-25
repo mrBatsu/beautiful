@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What would you like to know ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey there, my name is maique.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+i [tweet](http://twitter.com/maique). maybe too much.
 
-What else do you need?
+occasionally i'm also a photographer.
+some shots are up on [flickr[(http://flickr.com/photos/maique/).
 
-### my history
+there's also an [instagram](http://instagram.com/maique) account.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+if you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
+
+enjoy. 
