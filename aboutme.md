@@ -4,15 +4,15 @@ title: About me
 subtitle: What would you like to know ?
 ---
 
-Hey there, my name is maique.
+## Hey there, my name is maique.
 
-i [tweet](http://twitter.com/maique). maybe too much.
+### I [tweet](http://twitter.com/maique). Maybe too much.
 
-occasionally i'm also a photographer.
-some shots are up on [flickr](http://flickr.com/photos/maique/).
+### Occasionally I'm also a photographer.  
+### Some shots are up on [flickr](http://flickr.com/photos/maique/).
 
-there's also an [instagram](http://instagram.com/maique) account.
+### There's also an [instagram](http://instagram.com/maique) account.
 
-if you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
+### If you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
 
-enjoy. 
+#### Enjoy. 
