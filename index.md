@@ -5,6 +5,6 @@ subtitle: This is the home for my site
 use-site-title: true
 ---
 
-## Hey there....
+## Hey there....  
 
 ### Welcome to Beautiful, at mrBatsu
