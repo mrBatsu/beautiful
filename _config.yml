@@ -25,9 +25,9 @@ description: e@s
 navbar-links:
   About Me: "aboutme"
   Aqui: "aqui"
-    - ParteI: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte1"
-    - ParteII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte2"
-    - ParteIII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte3"
+    - ParteI: "https://github.com/mrBatsu/beautiful/blob/gh-pages/aqui.md#parte1"
+    - ParteII: "https://github.com/mrBatsu/beautiful/blob/gh-pages/aqui.md#parte2"
+    - ParteIII: "https://github.com/mrBatsu/beautiful/blob/gh-pages/aqui.md#parte3"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
