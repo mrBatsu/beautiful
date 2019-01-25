@@ -9,7 +9,7 @@ Hey there, my name is maique.
 i [tweet](http://twitter.com/maique). maybe too much.
 
 occasionally i'm also a photographer.
-some shots are up on [flickr[(http://flickr.com/photos/maique/).
+some shots are up on [flickr](http://flickr.com/photos/maique/).
 
 there's also an [instagram](http://instagram.com/maique) account.
 
