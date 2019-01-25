@@ -24,7 +24,7 @@ description: e@s
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Aqui: "Aqui"
+  Aqui: "aqui"
     - ParteI: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte1"
     - ParteII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte2"
     - ParteIII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte3"
