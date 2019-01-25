@@ -24,6 +24,10 @@ description: e@s
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Aqui: "Aqui"
+    - ParteI: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte1"
+    - ParteII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte2"
+    - ParteIII: "http://mrBatsu.github.io/beautiful/Aqui.md/#parte3"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
