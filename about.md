@@ -1,5 +1,6 @@
 ---
 layout: page
+googlefonts: ["Ubuntu"]
 title: About
 subtitle: What would you like to know ?
 ---
